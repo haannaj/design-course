@@ -7,7 +7,7 @@ Redovisning av kursmoment
 ==================
 
 * [Kursmoment 01](report/kmom01)
-* [Kursmoment 02](#)
+* [Kursmoment 02](report/kmom02)
 * [Kursmoment 03](#)
 * [Kursmoment 04](#)
 * [Kursmoment 05](#)
