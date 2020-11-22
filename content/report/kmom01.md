@@ -1,11 +1,10 @@
 ---
 Title: Kmom01
 Description: Part 1
+Template: kmom
 ---
 
-Kursmoment 01
-==================
-
+<h2>Kursmoment 01</h2>
 
 Det är första gången jag jobbar med ramverk. Jag tycker det var en utmaning att få koll på Pico och dyka in i portfolio-mappen då det innehöll mycket kod som inte var självklar för mig. Github är också nytt för mig, jag tyckte det var svårt att tyda och förstå hur vi skulle integrera med GitHub och i vilken ordning vi skulle commit och använda GitHub. Jag hoppas jag fick koll på det tillslut och att det ser rätt ut.
 
