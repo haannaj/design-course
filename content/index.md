@@ -3,10 +3,8 @@ Title: Hem
 Description: This is our index page.
 ---
 
-Välkommen hit!
-==================
 
-För att börja min historia börjar vi på Väggaskolan där jag gick Teknikprogrammet fram till 2012 då jag tog studenten. Efter studenten gled jag in på Turismekonomprogrammet i Kalmar, märkte dock ganska snabbt att jag inte hade intresset för ekonomi, men höll mig kvar i tre år trots allt. Av ren tur efter Kalmarvisiten började jag en praktik på Lernia Bemanning i Olofström, blev snabbt anställd och ansvarig för rekryteringen för Volvo Cars.
+<i><b>För att börja min historia</i></b> börjar vi på Väggaskolan där jag gick Teknikprogrammet fram till 2012 då jag tog studenten. Efter studenten gled jag in på Turismekonomprogrammet i Kalmar, märkte dock ganska snabbt att jag inte hade intresset för ekonomi, men höll mig kvar i tre år trots allt. Av ren tur efter Kalmarvisiten började jag en praktik på Lernia Bemanning i Olofström, blev snabbt anställd och ansvarig för rekryteringen för Volvo Cars.
 
 Tiden gick och efter ett antal år inom HR-branschen kände jag att jag ännu inte hade hittat rätt. Jag har alltid trivs bra framför datorskärmen och hade velat göra något där det krävs kreativitet, logik och problemlösning, vilket gjorde att jag började fundera på framtiden.
 

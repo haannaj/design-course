@@ -1,7 +1,7 @@
 @import 'typography';
-@import 'variables';
+@import 'variables-dark';
 @import '../css/oldstyle';
-@import 'report';
+@import 'report-dark';
 
 * {
     font-family: 'Quicksand', sans-serif;
@@ -30,7 +30,7 @@ a:hover {
 .header {
     background-color: $accent-color;
     padding: 30px 0;
-    border-bottom: 2px solid $typograph-color;
+    border-bottom: 2px solid $accents-color;
     padding: 40px;
 }
 
@@ -38,8 +38,13 @@ a:hover {
     color: $typograph-color;
 }
 
+.nav a,
+.nav-toggle {
+    color: $typograph-color;
+}
+
 .nav a:hover {
-    color: $accents-color;
+    color: $background-color;
 }
 
 .footer {
@@ -51,7 +56,7 @@ a:hover {
     }
 
     a:hover {
-        color: $accent-colors;
+        color: $background-color;
     }
 }
 

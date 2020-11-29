@@ -1,5 +1,5 @@
 ---
-Title: Redovisning
+Title: Kursmoment
 Description: The report-page.
 Template: report
 ---

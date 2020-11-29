@@ -1,4 +1,4 @@
-@import 'variables';
+@import 'variables-dark';
 
 
 .landingpage {
@@ -18,26 +18,25 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px solid $hover-color;
+    border: 1px solid $accents-color;
 
     a {
-        border: 2px solid $hovers-color;
+        border: 1px solid $accents-color;
         padding-left: 1em;
         padding-right: 1em;
         margin-bottom: 20px;
     }
 
     a:hover {
-        border: 2px solid $accent-color;
-        color: $typograph-color;
-        transition: border 0.2s ease-in;
+        color: $color;
+        background-color: $accent-color;
+        transition: background-color 0.2s ease-in;
     }
 
     h3 {
-        background-color: $typograph-color;
+        background-color: $accents-color;
         width: 100%;
         text-align: center;
-        color: $background-color;
     }
 }
 
@@ -47,25 +46,24 @@
     height: 160px;
     justify-self: center;
     text-align: center;
-    border: 1px solid $hover-color;
+    border: 1px solid $accents-color;
 
     a {
-        border: 2px solid $hovers-color;
+        border: 1px solid $accents-color;
         padding: 6px 15px;
         margin-bottom: 20px;
         justify-self: center;
     }
 
     a:hover {
-        border: 2px solid $accent-color;
-        color: $typograph-color;
-        transition: border 0.2s ease-in;
+        color: $color;
+        background-color: $accent-color;
+        transition: background-color 0.2s ease-in;
     }
 
     h3 {
-        background-color: $typograph-color;
+        background-color: $accents-color;
         text-align: center;
-        color: $background-color;
     }
 }
 
@@ -94,14 +92,15 @@
     margin: 10px 5px;
     padding: 10px 1px;
     border-radius: 1em;
-    border: 1px solid $hover-color;
+    border: 1px solid rgb(226, 219, 219);   
 }
 
 .side-bar h3:hover {
     color: rgb(255, 255, 255);
-    background-color: $typograph-color;
+    background-color: $accents-color;
     transition: background-color 0.2s ease-in;
 }
+
 
 
 

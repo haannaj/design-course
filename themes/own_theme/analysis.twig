@@ -57,9 +57,15 @@
         </div>
     </div>
     <div class="main" role="main">
-        {{ dump( config.session )}}
-        <div class="container">
-            {{ content }}
+        <div class="kmom-grid">
+            <div class="side-bar">
+                <a href="analysis01"><h3>Analys 01</h3></a>
+                <a href="analysis02"><h3>Analys 02</h3></a>
+                <a href="analysis03"><h3>Analys 03</h3></a>
+            </div>
+            <div class="kmom-main">
+                {{ content }}
+            </div>
         </div>
     </div>
     <div class="footer">
