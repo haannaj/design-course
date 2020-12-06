@@ -18,7 +18,7 @@ För att genomföra analysen användes kursmaterial såsom boken The Principles 
 
 <h2>Resultat</h2>
 
-![systerlycklig](%assets_url%/img/systerlycklig.png)
+![systerlycklig](%assets_url%/img/systerlycklig.png){.webbplats}
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -39,7 +39,7 @@ För att genomföra analysen användes kursmaterial såsom boken The Principles 
 Systerlycklig.se har en slogan som är "personlig och färgglad inredning online", vilket binder samman den här webbplatsen för hur vi tror de vill att användaren ska uppleva besöket med hjälp av de klara färgerna.
 
 
-![vismaspcs](%assets_url%/img/vismaspcs.png)
+![vismaspcs](%assets_url%/img/vismaspcs.png){.webbplats}
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -57,7 +57,7 @@ Systerlycklig.se har en slogan som är "personlig och färgglad inredning online
 Vismaspcs.se håller det enkelt med färger och typsnitt som vi anser de använder för att skapa en enkelhet för användaren utan att ta för mycket uppmärksamhet.
 
 
-![fyndiq](%assets_url%/img/fyndiq.png)
+![fyndiq](%assets_url%/img/fyndiq.png){.webbplats}
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>

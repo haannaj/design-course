@@ -14,7 +14,7 @@ Redovisning av analyser
 </div>
 <div class="kmom-box">
     <h3>Analys 02</h3>
-    <p>Bilder</p>
+    <p>En studie om mätvärde</p>
     <a href="analysis/analysis02">Visa analys</a>
 </div>
 <div class="kmom-box">

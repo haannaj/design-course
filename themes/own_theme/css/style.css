@@ -6692,6 +6692,7 @@ p {
   gap: 3em 2em;
   padding: 0 1em;
   margin: 10px 50px;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .landingpage h1 {
@@ -6799,6 +6800,17 @@ p {
     margin: 50px;
   }
 }
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em 1em;
+  padding: 1em;
+}
+
+.img {
+  border: 3px solid pink;
+}
+
 * {
   font-family: "Quicksand", sans-serif;
 }

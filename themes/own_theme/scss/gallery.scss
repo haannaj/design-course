@@ -1,0 +1,40 @@
+.gallery {
+    display: grid;
+    gap: 1em 2em;
+    padding: 0 1em;
+    margin: 10px 100px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.wildlife {
+    max-width: 500px;
+    grid-column: span 1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+@media (max-width: 992px) {
+    .gallery {
+        width: 80%;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0 auto;   
+    }
+
+    .wildlife {
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .gallery {
+        width: 50%;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 0 auto;
+    }
+
+    .wildlife {
+        width: 100%;
+    }
+}
