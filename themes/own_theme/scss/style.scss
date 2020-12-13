@@ -22,7 +22,7 @@ h6 {
 }
 
 a {
-    color: $color;
+    color: $accent-colors;
 }
 
 a:hover {
@@ -38,11 +38,18 @@ a:hover {
 
 
 .nav a {
-    color: $typograph-color;
+    color: $accent-colors;
+    line-height: 2;
 }
 
 .nav a:hover {
-    color: $accents-color;
+    color: $background-color;
+}
+
+.nav .active a {
+    color: $accent-colors;
+    font-style: bold;
+    text-decoration: underline;
 }
 
 .footer {

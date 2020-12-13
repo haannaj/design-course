@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="sv">
 <html class="no-js">
 <head>
     <meta charset="utf-8" />
@@ -26,15 +27,13 @@
 <body{% if config.theme_config.widescreen %} class="widescreen"{% endif %}>
     <div class="header" role="banner">
         <div class="container">
-            <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false" tabindex="1">
+            <a class="nav-toggle" id="nav-toggle" title="Toggle Menu" role="button" aria-controls="nav" aria-expanded="false" tabindex="0">
                 <i class="fa fa-bars" aria-hidden="true" id="toggler"></i>
                 <span class="sr-only">Toggle Menu</span>
             </a>
             {% if pages["_meta"].meta.logo %}
                 <div class="logo" aria-hidden="true">
-                    <a href="{{ "index"|link }}">
-                        <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
-                    </a>
+                    <img src="{{ base_url }}/{{ pages["_meta"].meta.logo|url }}" alt="" />
                 </div>
             {% endif %}
             <div class="title" {{ pages["_meta"].meta.tagline ? ' class="tagline"' }}>
@@ -59,13 +58,13 @@
     <div class="main" role="main">
         <div class="kmom-grid">
             <div class="side-bar">
-                <a href="kmom01"><h3>Kursmoment 01</h3></a>
-                <a href="kmom02"><h3>Kursmoment 02</h3></a>
-                <a href="kmom03"><h3>Kursmoment 03</h3></a>
-                <a href="kmom04"><h3>Kursmoment 04</h3></a>
-                <a href="kmom05"><h3>Kursmoment 05</h3></a>
-                <a href="kmom06"><h3>Kursmoment 06</h3></a>
-                <a href="kmom07-10"><h3>Kursmoment 07-10</h3></a>
+                <a href="kmom01"><p>Kursmoment 01</p></a>
+                <a href="kmom02"><p>Kursmoment 02</p></a>
+                <a href="kmom03"><p>Kursmoment 03</p></a>
+                <a href="kmom04"><p>Kursmoment 04</p></a>
+                <a href="kmom05"><p>Kursmoment 05</p></a>
+                <a href="kmom06"><p>Kursmoment 06</p></a>
+                <a href="kmom07-10"><p>Kursmoment 07-10</p></a>
             </div>
             <div class="kmom-main">
                 {{ content }}
