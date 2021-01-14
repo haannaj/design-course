@@ -4,7 +4,7 @@ Tagline: En del av kursern Teknisk webbdesign och användbarhet
 Social:
     - title: Länk till sidans github repo.
       url: https://github.com/haannaj/design-course
-      icon: fab fa-github
+      icon: fab fa-spotify
     - title: Länk till BTH.
       url: https://www.bth.se/
       icon: fas fa-graduation-cap
